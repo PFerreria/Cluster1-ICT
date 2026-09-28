@@ -5,6 +5,7 @@
 1. Create virtual environment to maintain reproducibility:
 - Needs Python 3.11 or 3.12, but can be tested with any Python version
 - `python -m venv venv`
+- Access venv: `.\venv\Scripts\activate`
 
 2. Install `psychopy`: `pip install psychopy`
 - If there is any problem withmissing `swig.exe`, download here: https://sourceforge.net/projects/swig/files/swigwin/swigwin-4.4.1/
